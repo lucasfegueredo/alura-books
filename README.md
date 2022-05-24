@@ -1,5 +1,7 @@
 Projeto do curso de Docker-Compose
 
+Na pasta raiz ./aula-compose faça o seguinte:
+
 Primeiro comando:
 docker-compose build
 
